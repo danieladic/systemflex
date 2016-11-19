@@ -1,0 +1,15 @@
+﻿#lodgment {
+    #customizablebtn {
+        -webkit-transform: none;
+        transform: none;
+    }
+
+    .col-md-3 {
+        float: none;
+        display: inline-flex;
+    }
+
+    .form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control{
+        color:#666666;
+    }
+}
